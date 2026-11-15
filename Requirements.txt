@@ -3,3 +3,8 @@
 3. One GSM module
 4. One RFID module
 5. Some connecting wires
+6. One LCD display
+7. One transistor
+8. One voltage step-down converter
+9. Several capacitors
+10. Several small LED lamps
