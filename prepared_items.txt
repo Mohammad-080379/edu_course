@@ -1,0 +1,4 @@
+1. Two motherboards
+2. One Arduino board
+3. One GSM module
+The three items above were prepared on November 15.
