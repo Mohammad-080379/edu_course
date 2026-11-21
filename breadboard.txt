@@ -1,0 +1,3 @@
+A breadboard is a reusable, solderless board used to build and test temporary electronic circuits.
+Hidden metal clips beneath its grid of holes grip component leads
+and jumper wires to make electrical connections without soldering.
