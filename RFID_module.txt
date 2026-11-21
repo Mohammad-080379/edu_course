@@ -1,0 +1,4 @@
+An RFID module is a compact electronic circuit board that transmits and receives radio waves 
+to read from—and sometimes write data to—Radio-frequency identification (RFID) tags without physical contact. 
+It acts as the core hardware engine inside an RFID reader system, sending out a signal to power or wake nearby tags,
+decoding their stored data, and passing that information to a microcontroller, computer, or software system.
