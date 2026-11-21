@@ -1,0 +1,4 @@
+Arduino is an open-source electronics platform that combines programmable microcontroller circuit boards
+with easy-to-use software for building interactive hardware projects. 
+Most users on Reddit agree that it functions as a simple computer designed to read inputs from sensors
+and control outputs like lights or motors in real time.
