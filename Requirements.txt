@@ -1,10 +1,8 @@
-1. Two motherboards
-2. One Arduino board
-3. One GSM module
-4. One RFID module
-5. Some connecting wires
-6. One LCD display
-7. One transistor
-8. One voltage step-down converter
-9. Several capacitors
-10. Several small LED lamps
+1. 1 Arduino Uno Rev3
+2. 1 Breadboard (generic)
+3. 1 GSM module
+4. 1 RFID module
+5. 4 Resistor 220 ohm
+6. Jumper wires (generic)
+7. 5 mm LED: Red
+8. 5 mm LED: Green
