@@ -1,0 +1,3 @@
+A GSM module is a compact cellular hardware component that connects embedded systems or electronic devices to a mobile network using a SIM card.
+Based on the Global System for Mobile Communications (GSM) standard, it enables devices to send and receive SMS messages,
+make voice calls, and transfer data over cellular networks.
