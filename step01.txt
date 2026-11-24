@@ -1,0 +1,1 @@
+The first step in an RFID project with Arduino is gathering your hardware and wiring the RFID reader module to the Arduino.
