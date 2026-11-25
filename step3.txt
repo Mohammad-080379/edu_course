@@ -1,0 +1,1 @@
+Step 3 usually refers to wiring the RFID module, writing data to a tag, selecting a COM port in the IDE, or tag response (load modulation) during RF communication.
