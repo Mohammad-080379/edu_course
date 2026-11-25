@@ -1,0 +1,1 @@
+Because every RFID card or key fob has a unique factory-assigned ID, you need to discover what that number is before you can program your Arduino to recognize it.
