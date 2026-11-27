@@ -1,0 +1,1 @@
+uploading and testing the code to read card data or verifying output such as a card's UID, serial monitor data, or an action like a lock or display
