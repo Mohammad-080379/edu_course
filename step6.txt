@@ -1,1 +1,1 @@
-There is no single universal "Step 6" for an RFID Arduino project because step numbering depends on the specific guide you are following. In most tutorials, Step 6 involves 
+connecting final components, inserting your scanned tag UID into the main sketch, uploading the final code, or testing your system
